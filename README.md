@@ -14,6 +14,8 @@ To understand the basic concepts of git.
 
 ## How to contribute
 
+Please fork this repo and issue pull requests for review.
+
 ### COPYRIGHT
 
 2024 git training, all rights reserved
