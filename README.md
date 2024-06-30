@@ -20,3 +20,4 @@ Please fork this repo and issue pull requests for review.
 ### COPYRIGHT
 
 2024 git training, all rights reserved
+this is a copyright example
