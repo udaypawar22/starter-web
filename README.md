@@ -4,9 +4,11 @@ This is a simple website project for showing how to use git and github together
 
 ## Introduction
 
-this is the intro section
+This is the intro section. Its a demo github project
 
 ## Purpose
+
+To understand the basic concepts of git.
 
 ## Deployment
 
