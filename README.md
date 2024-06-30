@@ -16,4 +16,4 @@ To understand the basic concepts of git.
 
 ### COPYRIGHT
 
-2024 git training
+2024 git training, all rights reserved
