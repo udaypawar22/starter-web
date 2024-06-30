@@ -13,3 +13,7 @@ To understand the basic concepts of git.
 ## Deployment
 
 ## How to contribute
+
+### COPYRIGHT
+
+2024 git training
