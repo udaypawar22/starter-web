@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Udaysingh Pawar uday@gmail.com
 
 # THANKS
 
